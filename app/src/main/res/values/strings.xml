@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="logo">Sizdin qalanyzdagy aua raiy</string>
+    <string name="hintUserField">Qalany engiziniz</string>
+    <string name="main_btn">Aua raiyn bilu</string>
+    <string name="no_user_input">Soz jaz</string>
+</resources>
